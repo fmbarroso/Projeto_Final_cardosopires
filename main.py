@@ -1,1 +1,1 @@
-print("Oi main!")
+from minhaslibs import ler_ficheiro
